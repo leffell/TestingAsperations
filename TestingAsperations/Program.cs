@@ -1,4 +1,10 @@
-﻿using System;
+﻿////////////////////////////////////////////////////////////////////////////////
+/// Change History
+/// Developer   Date    Description
+/// Laurie      2/3     Added model and view folder to project
+/// 
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
